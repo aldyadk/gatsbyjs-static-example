@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return l}));var o=n("q1tI"),a=n.n(o),c=n("Wbzz");function l(){return a.a.createElement("div",{style:{color:"purple"}},a.a.createElement(c.a,{to:"/contact"},"Contact"),a.a.createElement("h1",null,"Hello world!"),a.a.createElement("p",null,"yooooo"),a.a.createElement("img",{src:"https://source.unsplash.com/random/400x200",alt:""}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-003f409faaafbeb2925a.js.map
